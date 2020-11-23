@@ -1,5 +1,4 @@
 class Solution(object):
-    '''def countPairsEqOne(x, y):''' 
     def gcd(self, a, b):
         if b == 0:
             return a
