@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class FrogsMaxDistance {
 
     public static void main(String[] args) {
-        FrogMaxDistance s = new FrogMaxDistance();
+        FrogsMaxDistance s = new FrogsMaxDistance();
         System.out.println(s.solution(new int[] { 1, 1, 1, 1, 2, 3, 2, 1, 0 }));
         System.out.println(s.solution(new int[] { 3, 2, 1 }));
         System.out.println(s.solution(new int[] { 5, 5, 4, 3, 2}));
